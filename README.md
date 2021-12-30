@@ -97,7 +97,7 @@ getData();
 ```
 `.then()`안에  `renderWeatherData(json)` 해줌으로써 데이터 받아와지면, 해당 함수의 매개 변수로 보내지도록 조치했다. 그 결과, 데이터가 성공적으로 콘솔에 찍혔다. 
 
-#### 2. CITYname이 변경되지 않음
+#### 2. CITYname이 변경되지 않음 ( scope error )
 ```js
 
 let CITYname = "los angeles";
