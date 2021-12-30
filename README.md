@@ -38,7 +38,7 @@
 
 ## Sprint 진행시, 어려웠던 점
 
-- API를 받아올 때, fetch가 비동기 방식이라서 발생하는 문제점
+#### 1. API를 받아올 때, fetch가 비동기 방식이라서 발생하는 문제점
 ```js
 
 function renderWeatherData() {
@@ -97,7 +97,7 @@ getData();
 ```
 `.then()`안에  `renderWeatherData(json)` 해줌으로써 데이터 받아와지면, 해당 함수의 매개 변수로 보내지도록 조치했다. 그 결과, 데이터가 성공적으로 콘솔에 찍혔다. 
 
-- CITYname이 변경되지 않음
+#### 2. CITYname이 변경되지 않음
 ```js
 
 let CITYname = "los angeles";
@@ -159,7 +159,7 @@ console.log("도시 이름은", CITYname); // => "los angeles"
 
 ## Sprint 진행시, 흥미로웠던 점
 
-- DOM을 사용하지 않고, 받아온 데이터를 화면에 출력하기
+-  DOM을 사용하지 않고, 받아온 데이터를 화면에 출력하기
 
 DOM을 사용하지 않고도 아래와 같은 방식으로 받아온 데이터를 화면에 출력해줄 수 있었다.
 
