@@ -29,7 +29,7 @@
 
 ## Sprint 완성본
 
-![](https://images.velog.io/images/gil0127/post/6011426a-3611-45ad-aee3-b6367e7119ee/1.gif)
+![](https://images.velog.io/images/gil0127/post/3192cd57-f5ef-4211-a1e8-4fe931326250/11.gif)
 
 ![](https://images.velog.io/images/gil0127/post/6bbec169-0497-44d5-a83d-11ea4254f3cf/2.gif)
 
